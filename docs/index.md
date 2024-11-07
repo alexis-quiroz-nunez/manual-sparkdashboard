@@ -1,5 +1,5 @@
 # Bienvenido al Manual de Usuario
-Esta es la documentación para usuarios finales del proyecto Spark.
+Esta es la documentación para usuarios finales del proyecto Spark. Cambio menor
 
 ## Secciones
 
