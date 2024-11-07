@@ -1,4 +1,3 @@
-
 site_name: 'Manual de Usuario de Spark'
 theme:
   name: material
@@ -8,4 +7,3 @@ nav:
   - Instalación: instalacion.md
   - Guía de Uso: guia-de-uso.md
   - FAQ: faq.md
-
